@@ -8,6 +8,10 @@
         <ToolbarItem Text="Add" Clicked="Add_Clicked" IconImageSource="{FontImage Glyph='+', Color=White, Size=22}" />
     </ContentPage.ToolbarItems>
 
+    <ContentPage.Background>
+        <ImagePaint></ImagePaint>
+    </ContentPage.Background>
+
     <!-- Display notes in a list -->
     <CollectionView x:Name="notesCollection"
                         ItemsSource="{Binding Notes}"

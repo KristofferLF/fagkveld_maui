@@ -1,9 +1,10 @@
 namespace Notat_app.Views;
 
+/// <summary>
+/// View for the 'About'-page.
+/// </summary>
 public partial class AboutPage : ContentPage
 {
-    bool _isDarkTheme => Application.Current.UserAppTheme == AppTheme.Dark;
-
 	public AboutPage()
 	{
         Application.Current.UserAppTheme = AppTheme.Light;

@@ -1,5 +1,8 @@
 namespace Notat_app.Views;
 
+/// <summary>
+/// View for the 'Note'-page.
+/// </summary>
 [QueryProperty(nameof(ItemId), nameof(ItemId))]
 public partial class NotePage : ContentPage
 {

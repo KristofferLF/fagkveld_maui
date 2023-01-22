@@ -1,11 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Notat_app.Models
+﻿namespace Notat_app.Models
 {
+    /// <summary>
+    /// Model for the 'Note'-page.
+    /// </summary>
     internal class Note
     {
         public string Filename { get; set; }

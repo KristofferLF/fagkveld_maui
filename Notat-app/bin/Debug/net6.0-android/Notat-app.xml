@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Notat-app</name>
+    </assembly>
+    <members>
+        <member name="T:Notat_app.Models.About">
+            <summary>
+            Model for the 'About'-page.
+            </summary>
+        </member>
+        <member name="T:Notat_app.Models.Note">
+            <summary>
+            Model for the 'Note'-page.
+            </summary>
+        </member>
+        <member name="T:Notat_app.Models.Start">
+            <summary>
+            Model for the 'Start'-page.
+            </summary>
+        </member>
+        <member name="T:Notat_app.Views.AboutPage">
+            <summary>
+            View for the 'About'-page.
+            </summary>
+        </member>
+        <member name="T:Notat_app.Views.NotePage">
+            <summary>
+            View for the 'Note'-page.
+            </summary>
+        </member>
+        <member name="M:Notat_app.Views.NotePage.ClickSaveButton(System.Object,System.EventArgs)">
+            <summary>
+            Button to save the current note.
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:Notat_app.Views.NotePage.ClickDeleteButton(System.Object,System.EventArgs)">
+            <summary>
+            Button to delete the current note.
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="T:Notat_app.Views.StartPage">
+            <summary>
+            View for the 'Start'-page.
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -1,5 +1,8 @@
 ﻿namespace Notat_app.Models
 {
+    /// <summary>
+    /// Model for the 'About'-page.
+    /// </summary>
     internal class About
     {
         public string Title => AppInfo.Name;

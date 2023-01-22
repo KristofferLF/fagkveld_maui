@@ -1,5 +1,8 @@
 namespace Notat_app.Views;
 
+/// <summary>
+/// View for the 'Start'-page.
+/// </summary>
 public partial class StartPage : ContentPage
 {
     public StartPage()

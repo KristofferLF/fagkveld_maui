@@ -1,8 +1,10 @@
-﻿using Notat_app.Models;
-using System.Collections.ObjectModel;
+﻿using System.Collections.ObjectModel;
 
 namespace Notat_app.Models;
 
+/// <summary>
+/// Model for the 'Start'-page.
+/// </summary>
 internal class Start
 {
     public ObservableCollection<Note> Notes { get; set; } = new ObservableCollection<Note>();

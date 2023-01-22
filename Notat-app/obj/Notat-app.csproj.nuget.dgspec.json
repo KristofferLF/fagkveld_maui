@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kristoffer.fagerheim\\source\\repos\\Notat-app\\Notat-app\\Notat-app.csproj": {}
+    "C:\\Users\\kristoffer.fagerheim\\source\\repos\\fagkveld_maui\\Notat-app\\Notat-app.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kristoffer.fagerheim\\source\\repos\\Notat-app\\Notat-app\\Notat-app.csproj": {
+    "C:\\Users\\kristoffer.fagerheim\\source\\repos\\fagkveld_maui\\Notat-app\\Notat-app.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kristoffer.fagerheim\\source\\repos\\Notat-app\\Notat-app\\Notat-app.csproj",
+        "projectUniqueName": "C:\\Users\\kristoffer.fagerheim\\source\\repos\\fagkveld_maui\\Notat-app\\Notat-app.csproj",
         "projectName": "Notat-app",
-        "projectPath": "C:\\Users\\kristoffer.fagerheim\\source\\repos\\Notat-app\\Notat-app\\Notat-app.csproj",
+        "projectPath": "C:\\Users\\kristoffer.fagerheim\\source\\repos\\fagkveld_maui\\Notat-app\\Notat-app.csproj",
         "packagesPath": "C:\\Users\\kristoffer.fagerheim\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kristoffer.fagerheim\\source\\repos\\Notat-app\\Notat-app\\obj\\",
+        "outputPath": "C:\\Users\\kristoffer.fagerheim\\source\\repos\\fagkveld_maui\\Notat-app\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [

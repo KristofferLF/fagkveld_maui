@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GVQhfF63zzHvoSkuR9nNCJn4SlM969aYR3Oz/P9u9cTvl6GLvF+1lIfvJME+ebtU3beLuIgzlZ6vFyb7tGqoCQ==",
+  "dgSpecHash": "cWo/1HN99+QRjv8dfusnQc3JUn/7fCpiJMekoOWhDAOMWOZFrwB1tyQE+dign4OXesf2q587POExNiAqUyyVCA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kristoffer.fagerheim\\source\\repos\\Notat-app\\Notat-app\\Notat-app.csproj",
+  "projectFilePath": "C:\\Users\\kristoffer.fagerheim\\source\\repos\\fagkveld_maui\\Notat-app\\Notat-app.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kristoffer.fagerheim\\.nuget\\packages\\googlegson\\2.9.0.1\\googlegson.2.9.0.1.nupkg.sha512",
     "C:\\Users\\kristoffer.fagerheim\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.1\\microsoft.extensions.configuration.6.0.1.nupkg.sha512",
